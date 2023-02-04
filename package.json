@@ -1,6 +1,7 @@
 {
   "name": "dashboard-app",
   "version": "0.1.0",
+  "homepage": "https://github.com/sava642/React-dashboard__sort",
   "author": "Oleksandr Savostin",
   "private": true,
   "dependencies": {
